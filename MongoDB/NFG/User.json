@@ -1,0 +1,31 @@
+{ 
+    "_id" : "55be0d45-31a8-4e63-9244-a0b1f04589f3", 
+    "Firstname" : "marcel", 
+    "Lastname" : "hülsbeck", 
+    "EMail" : "mh@netgo.de", 
+    "Password" : "123456", 
+    "favorites" : [
+        "2c5045ed-e7cc-4994-ae91-eb44b0f571c6", 
+        "cbea6816-9f42-41a4-95fe-2b59896cac3d"
+    ]
+}
+{ 
+    "_id" : "4d101c8f-7d4e-4f53-95f6-269bfb9f7945", 
+    "Firstname" : "test", 
+    "Lastname" : "test", 
+    "EMail" : "test@netgo.de", 
+    "Password" : "test12345", 
+    "favorites" : [
+        "6448183d-5c0c-4572-bef4-34dc28627463"
+    ]
+}
+{ 
+    "_id" : "3fd134b6-c8b9-4b8e-9dd8-570e88a46f00", 
+    "Firstname" : "Dora", 
+    "Lastname" : "Sommer", 
+    "EMail" : "DS@netgo.de", 
+    "Password" : "dos12345", 
+    "favorites" : [
+
+    ]
+}

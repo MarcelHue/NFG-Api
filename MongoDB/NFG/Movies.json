@@ -1,0 +1,38 @@
+{ 
+    "_id" : "74887d38-c446-46dc-a371-0c6f87b1c986", 
+    "Title" : "urban", 
+    "Description" : "lagend", 
+    "Year" : NumberInt(1999), 
+    "UserId" : "55be0d45-31a8-4e63-9244-a0b1f04589f3", 
+    "TypeId" : "1ca800c0-209e-4ba9-9b67-b5c9f9fefc8c", 
+    "GenreId" : [
+        "22d29a8e-c8ab-4b8c-8ad7-0a477277e6d3"
+    ]
+}
+{ 
+    "_id" : "2c5045ed-e7cc-4994-ae91-eb44b0f571c6", 
+    "Title" : "Stargate SG1", 
+    "Description" : "A secret military team, SG-1, is formed to explore other planets through the recently discovered Stargates.", 
+    "Year" : NumberInt(1997), 
+    "UserId" : "55be0d45-31a8-4e63-9244-a0b1f04589f3", 
+    "TypeId" : "1ca800c0-209e-4ba9-9b67-b5c9f9fefc8c", 
+    "GenreId" : [
+        "889f7c85-650e-42e7-b9be-a43731d029eb", 
+        "e40bd387-9c9b-4b99-9613-fd3c6a531754", 
+        "46ead426-41bc-466e-988b-b51f5549abb1", 
+        "c0595f9b-d6a7-49a8-a65f-dcd9bf85f2c9"
+    ]
+}
+{ 
+    "_id" : "6448183d-5c0c-4572-bef4-34dc28627463", 
+    "Title" : "Hero", 
+    "Description" : "A defense officer, Nameless, was summoned by the King of Qin regarding his success of terminating three warriors.", 
+    "Year" : NumberInt(2002), 
+    "UserId" : "4d101c8f-7d4e-4f53-95f6-269bfb9f7945", 
+    "TypeId" : "7e1b7ea5-f52b-4340-9da4-79f138c812eb", 
+    "GenreId" : [
+        "889f7c85-650e-42e7-b9be-a43731d029eb", 
+        "e40bd387-9c9b-4b99-9613-fd3c6a531754", 
+        "7decf8e5-52b2-4032-b740-ca87ea5336f7"
+    ]
+}

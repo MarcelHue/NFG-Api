@@ -1,0 +1,112 @@
+{ 
+    "_id" : "889f7c85-650e-42e7-b9be-a43731d029eb", 
+    "Name" : "Action"
+}
+{ 
+    "_id" : "e40bd387-9c9b-4b99-9613-fd3c6a531754", 
+    "Name" : "Adventure"
+}
+{ 
+    "_id" : "22d29a8e-c8ab-4b8c-8ad7-0a477277e6d3", 
+    "Name" : "Animation"
+}
+{ 
+    "_id" : "d973e6b9-d425-414e-9f6d-49e8c537eeef", 
+    "Name" : "Biography"
+}
+{ 
+    "_id" : "179df5d0-a352-400a-8cd9-a46a1951fbe3", 
+    "Name" : "Comedy"
+}
+{ 
+    "_id" : "65d4c612-5d9c-426a-9442-d4a32f898456", 
+    "Name" : "Crime"
+}
+{ 
+    "_id" : "fadfae71-262b-45fd-beee-8c092f77f5ab", 
+    "Name" : "Documentary"
+}
+{ 
+    "_id" : "46ead426-41bc-466e-988b-b51f5549abb1", 
+    "Name" : "Drama"
+}
+{ 
+    "_id" : "21e509bf-1c36-47e3-824d-17c012d720d9", 
+    "Name" : "Family"
+}
+{ 
+    "_id" : "7459bfc4-5196-4f6f-9edf-fab1f95df590", 
+    "Name" : "Fantasy"
+}
+{ 
+    "_id" : "32e6b2ae-87df-4295-81d9-1b36727aea52", 
+    "Name" : "Film Noir"
+}
+{ 
+    "_id" : "7dddab83-85b4-46a9-a064-d539d3db4ef4", 
+    "Name" : "Game Show"
+}
+{ 
+    "_id" : "7decf8e5-52b2-4032-b740-ca87ea5336f7", 
+    "Name" : "History"
+}
+{ 
+    "_id" : "895e0c46-70ec-4e04-bedd-4e7cf7b23895", 
+    "Name" : "Horror"
+}
+{ 
+    "_id" : "da97f455-f3ce-4619-ad8a-9a505a908af0", 
+    "Name" : "Music"
+}
+{ 
+    "_id" : "ebfc7fef-65e5-4393-b3f1-793be3859a47", 
+    "Name" : "Musical"
+}
+{ 
+    "_id" : "568ddb14-6982-4bd9-aca9-1fe27a360a65", 
+    "Name" : "Mystery"
+}
+{ 
+    "_id" : "1ca64056-ef0a-4ef8-ba80-6109a8072352", 
+    "Name" : "News"
+}
+{ 
+    "_id" : "8ac4a658-24ae-4e55-9475-491f16cfc257", 
+    "Name" : "Reality TV"
+}
+{ 
+    "_id" : "009472e1-5702-4e50-8935-267fc4196ecc", 
+    "Name" : "Romance"
+}
+{ 
+    "_id" : "c0595f9b-d6a7-49a8-a65f-dcd9bf85f2c9", 
+    "Name" : "Sci-Fi"
+}
+{ 
+    "_id" : "e9f3bebb-9620-4985-83e2-446f41d28812", 
+    "Name" : "Short Film"
+}
+{ 
+    "_id" : "afdf4c0a-f3d7-4fe9-b2e4-97f3a541fab3", 
+    "Name" : "Sport"
+}
+{ 
+    "_id" : "30a7edd9-03a9-4a20-aefb-c2b7e46f411b", 
+    "Name" : "Superhero"
+}
+{ 
+    "_id" : "a90c03c9-9457-4cd3-be64-7a9a426f8d55", 
+    "Name" : "Talk Show"
+}
+{ 
+    "_id" : "a1358782-15ff-41a5-a703-fb924e1b5565", 
+    "Name" : "Thriller"
+}
+{ 
+    "_id" : "11217534-a33b-4197-a585-0e487659dbb6", 
+    "Name" : "War"
+}
+{ 
+    "_id" : "f3e55dc1-cded-48cd-9166-8df5f9e9597e", 
+    "Name" : "Western"
+}
